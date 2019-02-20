@@ -11,7 +11,7 @@ def first_element(first_element)
   first_element.first 
 end
 
-def third_element
+def third_element(third_element)
   @taylor_swift
   third_element[2]
 end
