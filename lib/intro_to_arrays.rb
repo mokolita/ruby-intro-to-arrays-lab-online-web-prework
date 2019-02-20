@@ -12,4 +12,6 @@ def first_element(first_element)
 end
 
 def third_element
+  @taylor_swift
+  third_element[2]
 end
