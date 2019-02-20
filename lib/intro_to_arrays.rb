@@ -15,3 +15,8 @@ def third_element(third_element)
   @taylor_swift
   third_element[2]
 end
+
+def last_element(last_element)
+  @taylor_swift
+  last_element[-1]
+end
