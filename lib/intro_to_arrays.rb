@@ -20,3 +20,8 @@ def last_element(last_element)
   @taylor_swift
   last_element[-1]
 end
+
+def first_country
+  @south_east_asia
+  first_country.first
+end
